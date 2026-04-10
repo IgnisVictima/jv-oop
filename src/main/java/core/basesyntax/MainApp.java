@@ -3,15 +3,15 @@ package core.basesyntax;
 public class MainApp {
     public static void main(String[] args) {
 
-        Machine buldMachine = new Bulldozer();
+        Machine buldozerMachine = new Bulldozer();
         Machine truckMachine = new Truck();
-        Machine excMachine = new Excavator();
+        Machine excavatorMachine = new Excavator();
 
-        Machine[] arrayOfMachines = new Machine[] { buldMachine, truckMachine, excMachine };
+        Machine[] arrayOfMachines = new Machine[] {buldozerMachine,truckMachine,excavatorMachine};
 
-        for (Machine machine : arrayOfMachines) {
+        for (Machine machine : arrayOfMachines) { //for-each for array
             machine.doWork();
-            machine.stopWork();
+            machine.stopWork(); 
         }
     }
 }
