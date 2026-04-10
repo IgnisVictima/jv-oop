@@ -1,0 +1,26 @@
+[33m5e3a358[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfirst-try[m[33m)[m add Main.Class Machine and his heirs
+[33m64092df[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m Update ci.yml
+[33meab34a3[m Merge pull request #2339 from sarakhmen/update-github-actions-versions
+[33m808aac7[m Update GitHub Actions versions
+[33m0c81ce0[m remove encoding config from checkstyle plugin
+[33m57f404c[m update checklist.md reference (#1715)
+[33m60029bc[m change version to JDK 17 in pom.xml (#1675)
+[33mea616af[m Update ci.yml to java 17
+[33m0dbf4f5[m Create checklist.md
+[33m68b23a8[m Merge pull request #1176 from mate-academy/change_class_name_in_readme
+[33m2ee36c5[m changed class name in readme
+[33m94f3d3c[m changed task description (#650)
+[33m17bec63[m Update CI config
+[33m95eeb7c[m Migrate from Travis to Github Actions
+[33me3a9585[m Update .travis.yml
+[33m93cce81[m Merge pull request #257 from mate-academy/fix-spelling-mistake
+[33mc8e194e[m fixed spelling mistake
+[33me803478[m update travis (#141)
+[33m0eb6581[m translated description to end, added link to checklist (#140)
+[33m1bd489b[m Task description refactoring (#138)
+[33ma185cec[m Update README.md
+[33me08f502[m Update README.md
+[33ma98e3e8[m Update pom.xml
+[33m514027b[m Update pom.xml
+[33m0970691[m added hw instructions
+[33mc6c4d44[m Initial commit
